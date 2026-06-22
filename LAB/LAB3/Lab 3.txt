@@ -1,0 +1,49 @@
+Lab 3
+
+Download the C++ file Lab3.cpp 
+
+Compile and run the Lab2.cpp source file. The output will be something like below:
+
+displayList:
+
+displayListReverse:
+
+displayList:
+
+displayListReverse:
+
+displayList:
+
+displayListReverse:
+
+displayList:
+
+displayListReverse:
+Complete the implementation of insertNode and deleteNode functions to apply a doubly-linked list concept using the Node class. Below is the possible output of the complete version of the Lab3.cpp program:
+
+displayList:
+0 1 5 6 9
+displayListReverse:
+9 6 5 1 0
+
+Delete node 5 at position = 3
+
+displayList:
+0 1 6 9
+displayListReverse:
+9 6 1 0
+
+Delete node 0 at position = 1
+
+displayList:
+1 6 9
+displayListReverse:
+9 6 1
+
+Delete node 9 at position = 3
+
+displayList:
+1 6
+displayListReverse:
+6 1
+This lab can be completed in pairs (2 students per group). Only group leader needs to submit the solutions (Lab3.cpp). Ensure that all group member names are written in the top comments section of the Lab3.cpp files before you do the submission.
